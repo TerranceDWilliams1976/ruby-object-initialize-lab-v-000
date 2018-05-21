@@ -3,11 +3,11 @@ class Person
     @name = name
 end
   
-  def dog=(name)
+  def name=(name)
     @name = name
   end
   
-  def dog
+  def name
     @name
   end
 end
